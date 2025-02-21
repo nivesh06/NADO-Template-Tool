@@ -1,0 +1,1355 @@
+{
+  "CA TS - EAST": {
+    "OTTAWA": {
+      "CEs": [
+        "Keith Thalheimer",
+        "Roch Prud'Homme"
+      ],
+      "PDL": "RESESCACan@hpe.com"
+    },
+    "QUBEC": {
+      "CEs": [
+        "Ephraim Barreau",
+        "Eric Gagnon",
+        "Michel Dumas",
+        "Sylvain Legault"
+      ],
+      "PDL": "RESESCACan@hpe.com"
+    }
+  },
+  "CA TS - WEST": {
+    "ALBERTA": {
+      "CEs": [
+        "Ben Wenzel",
+        "Charles Berlinguette",
+        "Wasim Randhawa",
+        "Wasiu Idowu"
+      ],
+      "PDL": "RESESCACan@hpe.com"
+    },
+    "BRITISH COLUMBIA": {
+      "CEs": [
+        "Doug Morris",
+        "Joel Mendoza",
+        "Luis Tabares",
+        "Richard Cheng"
+      ],
+      "PDL": "RESESCACan@hpe.com"
+    },
+    "CENTRAL ONTARIO": {
+      "CEs": [
+        "Ahmad Ashi",
+        "Ali Shaikh",
+        "Aman Ullah",
+        "Devaun Mcfarlane",
+        "Francois Lalonde",
+        "Harinder Sharma",
+        "Igor Kucher",
+        "Jaime Te",
+        "Jason Hunte",
+        "Kamran Ali",
+        "Nishantha Weeratunga",
+        "Sanji Deol",
+        "Sivaganeshan Nagarajah"
+      ],
+      "PDL": "RESESCACan2@hpe.com"
+    },
+    "EASTERN ONTARIO": {
+      "CEs": [
+        "Aman Ullah",
+        "Andrew Hancock",
+        "Francois Lalonde",
+        "Igor Kucher",
+        "Jason Hunte",
+        "Sivaganeshan Nagarajah"
+      ],
+      "PDL": "RESESCACan2@hpe.com"
+    },
+    "MANITOBA": {
+      "CEs": [
+        "Brooks Allen",
+        "Raimner Heredia"
+      ],
+      "PDL": "RESESCACan@hpe.com"
+    },
+    "NORTHERN ONTARIO": {
+      "CEs": [
+        "Ahmad Ashi",
+        "Ali Shaikh",
+        "Aman Ullah",
+        "Francois Lalonde",
+        "Igor Kucher",
+        "Jason Hunte",
+        "Nishantha Weeratunga",
+        "Sanji Deol",
+        "Sivaganeshan Nagarajah"
+      ],
+      "PDL": "RESESCACan2@hpe.com"
+    },
+    "SOUTHWESTERN ONTARIO": {
+      "CEs": [
+        "Devaun Mcfarlane",
+        "Farrukh Khaitov",
+        "Peter Martin",
+        "Rob Ferguson",
+        "Ted Kooper"
+      ],
+      "PDL": "RESESCACan2@hpe.com"
+    }
+  },
+  "US TS - GLA": {
+    "ARLINGTON HEIGHTS": {
+      "CEs": [
+        "Brian White",
+        "Daniel Schlosser",
+        "Jeffrey Scott",
+        "Justen Dagens",
+        "Mark Price",
+        "Shane Holweger",
+        "Spiro Kyriacopoulos"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "BLOOMINGTON": {
+      "CEs": [
+        "Jeffrey Scott",
+        "Justen Dagens",
+        "Mark Price",
+        "Spiro Kyriacopoulos",
+        "Steven Leslie"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "CHICAGO": {
+      "CEs": [
+        "Brian White",
+        "Daniel Schlosser",
+        "Jeffrey Scott",
+        "Justen Dagens",
+        "Mark Price",
+        "Shane Holweger",
+        "Spiro Kyriacopoulos"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "CINCY": {
+      "CEs": [
+        "Adam Stahlheber",
+        "Brandon Knight",
+        "Greg May"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "CLEVELAND": {
+      "CEs": [
+        "Brian Daniels",
+        "Dave Salesky",
+        "Todd Porter"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "COLUMBUS": {
+      "CEs": [
+        "Adam Stahlheber",
+        "Brian Daniels",
+        "Dave Salesky",
+        "John Chargois",
+        "Todd Porter"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "DAYTON": {
+      "CEs": [
+        "Adam Stahlheber"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "DES MOINES": {
+      "CEs": [
+        "Aaron Sellers",
+        "Rick Vanzee",
+        "William Fitzner"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "EAST IOWA": {
+      "CEs": [
+        "Rick Vanzee"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "ERIE": {
+      "CEs": [
+        "Dave Salesky",
+        "Rich Matta"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "EVANSVILLE": {
+      "CEs": [
+        "Art Pender",
+        "Steven Leslie"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "EVANSVILLE ETZ": {
+      "CEs": [
+        "Art Pender"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "FORT WAYNE": {
+      "CEs": [
+        "Adam Stahlheber",
+        "Greg May"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "GREEN BAY": {
+      "CEs": [
+        "Gary Scharenbroch",
+        "Justen Dagens"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "INDY": {
+      "CEs": [
+        "Adam Stahlheber",
+        "Greg May",
+        "Adam Stahlheber",
+        "Greg May"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "LEXINGTON": {
+      "CEs": [
+        "Adam Stahlheber",
+        "Adam Stahlheber"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "LOUISVILLE": {
+      "CEs": [
+        "Adam Stahlheber",
+        "Art Pender",
+        "Adam Stahlheber",
+        "Art Pender"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "LOUISVILLE CTZ": {
+      "CEs": [
+        "Art Pender",
+        "Art Pender"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "MADISON": {
+      "CEs": [
+        "Justen Dagens",
+        "Justen Dagens"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "MID MICHIGAN": {
+      "CEs": [
+        "Joe Makuch",
+        "Michael Wyant",
+        "Joe Makuch",
+        "Michael Wyant"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "MILWAUKEE": {
+      "CEs": [
+        "Brian White",
+        "Justen Dagens",
+        "Shane Holweger",
+        "Brian White",
+        "Justen Dagens",
+        "Shane Holweger"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "MINNESOTA": {
+      "CEs": [
+        "Gary Scharenbroch",
+        "Jay Schrupp",
+        "Gary Scharenbroch",
+        "Jay Schrupp"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "NORTH DAKOTA": {
+      "CEs": [
+        "Gary Scharenbroch",
+        "Gary Scharenbroch"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "NORTHERNLOWERMICHIGAN": {
+      "CEs": [
+        "Joe Makuch",
+        "Michael Wyant",
+        "Joe Makuch",
+        "Michael Wyant"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "NW IN": {
+      "CEs": [
+        "Brian White",
+        "Daniel Schlosser",
+        "Jeffrey Scott",
+        "Justen Dagens",
+        "Mark Price",
+        "Shane Holweger",
+        "Spiro Kyriacopoulos",
+        "Brian White",
+        "Daniel Schlosser",
+        "Jeffrey Scott",
+        "Justen Dagens",
+        "Mark Price",
+        "Shane Holweger",
+        "Spiro Kyriacopoulos"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "PADUCAH": {
+      "CEs": [
+        "Art Pender",
+        "Steven Leslie",
+        "Art Pender",
+        "Steven Leslie"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "PITTSBURGH": {
+      "CEs": [
+        "Rich Matta",
+        "Rich Matta"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "ROCKFORD": {
+      "CEs": [
+        "Brian White",
+        "Daniel Schlosser",
+        "Justen Dagens",
+        "Mark Price",
+        "Shane Holweger",
+        "Spiro Kyriacopoulos",
+        "Brian White",
+        "Daniel Schlosser",
+        "Justen Dagens",
+        "Mark Price",
+        "Shane Holweger",
+        "Spiro Kyriacopoulos"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SEMI 1": {
+      "CEs": [
+        "Doug Dendooven",
+        "Michael Wyant"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SEMI 2": {
+      "CEs": [
+        "Doug Dendooven",
+        "Michael Wyant"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SEMI 3": {
+      "CEs": [
+        "Doug Dendooven",
+        "Michael Wyant"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SEMI 4": {
+      "CEs": [
+        "Doug Dendooven",
+        "Michael Wyant"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SOUTH BEND": {
+      "CEs": [
+        "Greg May"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SOUTH DAKOTA": {
+      "CEs": [
+        "Gary Scharenbroch",
+        "Jay Schrupp"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "TOLEDO": {
+      "CEs": [
+        "Brian Daniels",
+        "Dave Salesky",
+        "Todd Porter"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "UPPERMICHIGAN": {
+      "CEs": [
+        "Joe Makuch"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "WEST MICHIGAN 1": {
+      "CEs": [
+        "Joe Makuch"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "WEST MICHIGAN 2": {
+      "CEs": [
+        "Michael Wyant"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "WEST MICHIGAN 3": {
+      "CEs": [
+        "Joe Makuch"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    }
+  },
+  "US TS - MNEA": {
+    "CENTRAL PA": {
+      "CEs": [
+        "Dale Shoener",
+        "Donald F Bowers"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "EDISON": {
+      "CEs": [
+        "Art Wong",
+        "Jack Squeo",
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "LONG ISLAND": {
+      "CEs": [
+        "Art Wong",
+        "Jack Squeo",
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MANHATTAN": {
+      "CEs": [
+        "Art Wong",
+        "Jack Squeo",
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "NY DOWNSTATE": {
+      "CEs": [
+        "Art Wong",
+        "Jack Squeo",
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "PA/NJ/DE": {
+      "CEs": [
+        "Dennis Schwartz",
+        "Robert Brown",
+        "Scott Eccles",
+        "Vernon Robinette"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "PARAMUS": {
+      "CEs": [
+        "Art Wong",
+        "Gary Mcdonald",
+        "Jack Squeo",
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    }
+  },
+  "US TS - NEA": {
+    "CT/MASS WEST": {
+      "CEs": [
+        "Don Walenda",
+        "Gary Mcdonald"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MAINE NORTH": {
+      "CEs": [
+        "Don Walenda",
+        "Gary Mcdonald"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MAINE SOUTH": {
+      "CEs": [
+        "Don Walenda",
+        "Gary Mcdonald"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MASS CENTRAL NH SOUTH": {
+      "CEs": [
+        "(Justin) Sean Baker",
+        "Don Walenda",
+        "Gary Mcdonald",
+        "Timothy Ray"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MASS NE": {
+      "CEs": [
+        "(Justin) Sean Baker",
+        "Don Walenda",
+        "Gary Mcdonald"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MASS SE": {
+      "CEs": [
+        "(Justin) Sean Baker",
+        "Don Walenda",
+        "Gary Mcdonald"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MD CENTRAL DC": {
+      "CEs": [
+        "Chon Larocque",
+        "David Sierakowski",
+        "Douglas Lewis",
+        "James Grigsby",
+        "Ken Brown",
+        "Marco Estrada",
+        "Walt Douglas",
+        "Yolanda Taylor"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MD NE": {
+      "CEs": [
+        "David Sierakowski",
+        "James Grigsby",
+        "Jesse Sherline",
+        "Nick Bader",
+        "Robert Rowe"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MD VA WEST": {
+      "CEs": [
+        "James Grigsby",
+        "Jay Hatfield",
+        "Omar Cumberbatch",
+        "Robert Rowe"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "NH NORTHEAST": {
+      "CEs": [
+        "Gary Mcdonald"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "NOVA EAST": {
+      "CEs": [
+        "Chon Larocque",
+        "Douglas Lewis",
+        "Jesse Sherline",
+        "Marco Estrada",
+        "Maurice Jackson",
+        "Raymond Kelser",
+        "Robert Rowe",
+        "Walt Douglas",
+        "Yolanda Taylor"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "NY ALBANY": {
+      "CEs": [
+        "Eric Becker",
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "NY SYRACUSE": {
+      "CEs": [
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "NY WEST": {
+      "CEs": [
+        "Tom Donnelly"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "VT NH WEST": {
+      "CEs": [
+        "Gary Mcdonald"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    }
+  },
+  "US TS - NWA": {
+    "BOISE": {
+      "CEs": [
+        "Rob Calkins"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "CA NORTH CENTRAL": {
+      "CEs": [
+        "Elijah Mayeux",
+        "Marcus Rosevear",
+        "Rudy Ramirez",
+        "Sean Roberts",
+        "Tim Nguyen"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "EASTERN WA": {
+      "CEs": [
+        "David Colgan",
+        "Don Grangruth",
+        "Rob Evers",
+        "Ron Jacoby",
+        "Theodore Bruce"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "FRESNO": {
+      "CEs": [
+        "Marcus Rosevear"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "HAWAII": {
+      "CEs": [
+        "Matthew Higa",
+        "Stephan Cincotta"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "HAWAII SIX": {
+      "CEs": [
+        "Matthew Higa"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "MODESTO": {
+      "CEs": [
+        "Marcus Rosevear"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "MONTANA": {
+      "CEs": [
+        "Rob Calkins"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "MONTEREY": {
+      "CEs": [
+        "Marcus Rosevear"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "MORGAN HILL": {
+      "CEs": [
+        "Marcus Rosevear"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "PORTLAND": {
+      "CEs": [
+        "Jeff Chamberlain"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "RENO": {
+      "CEs": [
+        "Aaron Cavanaugh"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "SAN FRANCISCO": {
+      "CEs": [
+        "Marcus Rosevear"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "SANTA ROSA": {
+      "CEs": [
+        "Marcus Rosevear"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "SEATTLE": {
+      "CEs": [
+        "David Colgan",
+        "Don Grangruth",
+        "Steve Porcelli",
+        "Zeshan Shah"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "SF EAST BAY": {
+      "CEs": [
+        "David Tiku",
+        "Luis Gandara",
+        "Marcus Rosevear"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "SOUTHERN OREGON": {
+      "CEs": [
+        "Jeff Chamberlain"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "SUNNYVALE/MILPITAS": {
+      "CEs": [
+        "Chris Grimes",
+        "Jason Inoue",
+        "Marcus Rosevear",
+        "Mitchell Marr",
+        "Sandy Lee",
+        "Stephen Hy",
+        "William Yu"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    }
+  },
+  "US TS - SCA": {
+    "ABILENE": {
+      "CEs": [
+        "Mark B Stringer",
+        "Shawn Olivas"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "AUSTIN": {
+      "CEs": [
+        "Darryl Gonzalez",
+        "Frank Bernal",
+        "Jason Patterson"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "BATON ROUGE LA": {
+      "CEs": [
+        "Kayo Marshall",
+        "Milton James"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "BEAUMONT": {
+      "CEs": [
+        "John Fwu",
+        "Shawn Olivas"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "DALLAS": {
+      "CEs": [
+        "Cory Woods",
+        "Mark b Stringer",
+        "Shawn Olivas",
+        "Steven Arispe"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "EAST TEXAS": {
+      "CEs": [
+        "Mark b Stringer"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "FT SMITH": {
+      "CEs": [
+        "Brad Turner"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "FT WORTH": {
+      "CEs": [
+        "Cory Woods",
+        "Mark b Stringer",
+        "Shawn Olivas",
+        "Tigre Anthony"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "HOUSTON NORTH": {
+      "CEs": [
+        "Frank Bernal",
+        "Jason Patterson",
+        "John Fwu",
+        "Timothy Plear"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "HOUSTON SOUTH": {
+      "CEs": [
+        "Frank Bernal",
+        "Jason Patterson",
+        "John Fwu"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "JACKSON MS": {
+      "CEs": [
+        "Jeff Cowgill",
+        "Kayo Marshall",
+        "Milton James"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "KANSAS CITY": {
+      "CEs": [
+        "Ben Ferguson",
+        "Rick Vanzee",
+        "William Fitzner"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "LAFAYETTE LA": {
+      "CEs": [
+        "Kayo Marshall",
+        "Milton James"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "LITTLE ROCK": {
+      "CEs": [
+        "Jeff Cowgill"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "MIDLAND": {
+      "CEs": [
+        "Nephi Jahn"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "MIDMO NORTH": {
+      "CEs": [
+        "Ben Ferguson",
+        "Rick Vanzee",
+        "Steven Leslie"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "NE LOUISIANA": {
+      "CEs": [
+        "Milton James"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "NEW ORLEANS LA": {
+      "CEs": [
+        "Joshua Biehl",
+        "Kayo Marshall",
+        "Milton James"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "NORTH LOUISIANA": {
+      "CEs": [
+        "Kayo Marshall",
+        "Milton James"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "NWAR": {
+      "CEs": [
+        "Ben Ferguson",
+        "Steve Cataudella"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "OKLAHOMA CITY/WEST OK": {
+      "CEs": [
+        "Brad Turner",
+        "Steve Cataudella"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "OMAHA": {
+      "CEs": [
+        "Brandon Hook",
+        "Rick Vanzee",
+        "Timothy Kellogg",
+        "William Fitzner"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SAN ANTONIO": {
+      "CEs": [
+        "Frank Bernal",
+        "Jason Patterson",
+        "Jose Garcia",
+        "Joseph Flores",
+        "Nicholas Rice"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SOUTH TEXAS": {
+      "CEs": [
+        "Frank Bernal"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "SPRINGFIELD": {
+      "CEs": [
+        "Ben Ferguson"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "ST LOUIS": {
+      "CEs": [
+        "Patrick Kidd",
+        "Steven Leslie"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "TULSA ES": {
+      "CEs": [
+        "Brad Turner",
+        "Steve Cataudella"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "TULSA/NE OKLAHOMA": {
+      "CEs": [
+        "Brad Turner",
+        "Steve Cataudella"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    },
+    "WICHITA": {
+      "CEs": [
+        "William Fitzner"
+      ],
+      "PDL": "RESESCACent@hpe.com"
+    }
+  },
+  "US TS - SEA": {
+    "ALBANY": {
+      "CEs": [
+        "Robert Bacon"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "ATLANTA NORTH": {
+      "CEs": [
+        "Abe Hollingsworth",
+        "Alain Morel",
+        "Shametrica Hill",
+        "Stanley Kimbro"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "ATLANTA SOUTH": {
+      "CEs": [
+        "Abe Hollingsworth",
+        "Robert Bacon",
+        "Stanley Kimbro"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "AUGUSTA": {
+      "CEs": [
+        "Abe Hollingsworth",
+        "Dennis Schwartz",
+        "Stanley Kimbro"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "BIRMINGHAM": {
+      "CEs": [
+        "Chaka Nettles",
+        "Kerry Greer"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "CHARLESTON": {
+      "CEs": [
+        "Dennis Schwartz"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "CHARLOTTE": {
+      "CEs": [
+        "Aldemar Arana"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "COLUMBIA": {
+      "CEs": [
+        "Robert Mccormick"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "COLUMBUS WEST": {
+      "CEs": [
+        "Robert Bacon"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "FORT LAUDERDALE": {
+      "CEs": [
+        "Luis Colon"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "GREENSBORO EAST": {
+      "CEs": [
+        "Bobbie Reyes"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "GREENSBORO SOUTH": {
+      "CEs": [
+        "Aldemar Arana"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "GREENSBORO WEST": {
+      "CEs": [
+        "Aldemar Arana"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "GREENVILLE": {
+      "CEs": [
+        "Aldemar Arana"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "GREENVILLE MOREHEAD": {
+      "CEs": [
+        "Bobbie Reyes",
+        "Roger Murray"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "GUNTER AFB": {
+      "CEs": [
+        "Bill Robertson"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "HUNTSVILLE": {
+      "CEs": [
+        "Chaka Nettles",
+        "Kerry Greer"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "JACKSONVILLE": {
+      "CEs": [
+        "Kevin s Ryniewicz",
+        "Matt Mcknight"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MEMPHIS": {
+      "CEs": [
+        "Art Pender",
+        "Jeff Cowgill",
+        "Ralph Hunt"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MIAMI": {
+      "CEs": [
+        "Luis Colon"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "MONTGOMERY": {
+      "CEs": [
+        "Bill Robertson",
+        "Chaka Nettles"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "NASHVILLE": {
+      "CEs": [
+        "Kerry Greer",
+        "Tom Wittenberg"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "ORLANDO": {
+      "CEs": [
+        "Kevin s Ryniewicz",
+        "Matt Mcknight",
+        "Maurice Jackson"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "PENSACOLA": {
+      "CEs": [
+        "Bill Robertson"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "RALEIGH": {
+      "CEs": [
+        "Bobbie Reyes",
+        "Collin Meadows",
+        "Roger Murray",
+        "Stephen Phebus"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "SAVANNAH": {
+      "CEs": [
+        "Abe Hollingsworth",
+        "Dennis Schwartz",
+        "Stanley Kimbro"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "TAMPA": {
+      "CEs": [
+        "Kevin s Ryniewicz",
+        "Matt Mcknight"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "VA NORFOLK": {
+      "CEs": [
+        "Roger Murray"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "VA NORTH": {
+      "CEs": [
+        "Jay Hatfield"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "VA RICHMOND": {
+      "CEs": [
+        "Donnell Lowery",
+        "Jamie Stanley",
+        "Jay Hatfield",
+        "Katrina Waldon",
+        "Roger Murray",
+        "Sam Smith"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "VA WEST/CENTRAL": {
+      "CEs": [
+        "Jay Hatfield"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    },
+    "WILMINGTON": {
+      "CEs": [
+        "Bobbie Reyes"
+      ],
+      "PDL": "RESESCAEast@hpe.com"
+    }
+  },
+  "US TS - SWA": {
+    "ANAHEIM": {
+      "CEs": [
+        "Jose Ceja"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "ARIZONA FAR EAST": {
+      "CEs": [
+        "Fred Quenzer",
+        "Michael Burman",
+        "Robert Benham"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "ARIZONA FAR WEST": {
+      "CEs": [
+        "Fred Quenzer",
+        "Michael Burman",
+        "Robert Benham"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "ARIZONA NORTH": {
+      "CEs": [
+        "Fred Quenzer",
+        "Michael Burman",
+        "Robert Benham"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "ARIZONA SOUTH": {
+      "CEs": [
+        "Fred Quenzer",
+        "Michael Burman",
+        "Robert Benham"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "COLORADO SPRINGS": {
+      "CEs": [
+        "Andrew Beisel",
+        "Chris Lewis",
+        "Jacob Rast",
+        "Kirk Cilley"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "DENVER": {
+      "CEs": [
+        "Chris Lewis",
+        "Colin Brandes",
+        "George Jarvis",
+        "Jacob Rast",
+        "James Bergman",
+        "Kirk Cilley",
+        "Lance Payne",
+        "Zachery Younggren"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "EL PASO CTZ": {
+      "CEs": [
+        "Nephi Jahn"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "EL PASO MTZ": {
+      "CEs": [
+        "Don Garcia",
+        "Ernesto Coca"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "FORT COLLINS/WYOMING": {
+      "CEs": [
+        "Austin Aranda",
+        "Chris Lewis",
+        "James Anderson",
+        "Kalie Anderson",
+        "Kirk Cilley"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "IDAHO": {
+      "CEs": [
+        "Rob Calkins"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "INLAND EMPIRE NORTH": {
+      "CEs": [
+        "Aaron Cavanaugh",
+        "Coyo Jasso"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "INLAND EMPIRE SOUTH": {
+      "CEs": [
+        "Coyo Jasso"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "LAS VEGAS": {
+      "CEs": [
+        "Aaron Cavanaugh",
+        "Patrick Davis",
+        "Vincent Obrien"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "LOS ANGELES NORTH": {
+      "CEs": [
+        "Coyo Jasso",
+        "Kyle Schuster"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "LOS ANGELES SOUTH": {
+      "CEs": [
+        "Kayleen Amos"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "NEW MEXICO": {
+      "CEs": [
+        "Don Garcia",
+        "Ernesto Coca"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "PHOENIX": {
+      "CEs": [
+        "Brian Simpkins",
+        "Fred Quenzer",
+        "Michael Burman",
+        "Robert Benham"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "SAN DIEGO": {
+      "CEs": [
+        "Coyo Jasso",
+        "Jose Ceja"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "UTAH": {
+      "CEs": [
+        "Chapter Doh",
+        "Christopher Scott",
+        "Micah Breeden"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "UTAH SOUTH": {
+      "CEs": [
+        "Christopher Scott"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "VAN NUYS EAST": {
+      "CEs": [
+        "Kayleen Amos"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "VAN NUYS NORTH": {
+      "CEs": [
+        "Kayleen Amos"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    },
+    "VAN NUYS WEST": {
+      "CEs": [
+        "Coyo Jasso"
+      ],
+      "PDL": "RESESCAWest@hpe.com"
+    }
+  }
+}
