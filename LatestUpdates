@@ -1,10 +1,14 @@
 1. For 6HR CTRs, do not set a window longer than 4 hours!
 -While we can set longer windows for 4HR Response cases, 6HR CTRs must be set with a 4-hour window due to how SLA is calculated for these entitlements.
+
 2. For resident locations, set Delay Code 8 - Customer Caused Delay
 -Update the times as needed and do not leave as Delay Code 0 - Response Met!
+
 3. For NBD Orders, do not provide Hemmersbach the DN or Logistics Tracking #!
 -For all NBD orders and any order coming from C299, C208, or C212 we should be waiting for the 1Z tracking number to populate.
 -Hemmersbach should be aware that the tracking numbers will not populate until around midnight the day before the service window.
+
 4. When moving Service Appointments in FSM, please ensure to update the times on the Work Order as well!
+
 5. When working in FSM, please ensure that the Dispatch Aid is reviewed to confirm whether it requires assignment to an HPE AE.
 -This verification should be completed before assigning the work to an engineer and prior to submitting a resource escalation!
