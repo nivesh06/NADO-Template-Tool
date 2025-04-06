@@ -1,22 +1,13 @@
-****Critical Notification – Louisville KY Storm****
+******Steps to Fix: District Not Available for Resource Escalation*******
 
-Summary Description: 
-Kentucky Governor Andy Beshear has declared a state of emergency in anticipation of a four-day weather event impacting the Commonwealth. On Wednesday, many areas will face the risk of severe storms, with certain regions classified under a level 5, high risk for severe weather including possible Tornado warnings.
+1. Select the Correct Region (US or CA).
+2. Make sure you're picking the right region from the dropdown.
+3. Pick Any Available District. If your actual district is missing, just select any district from the list.
+4. Manually replace the District Name in Outlook once you hit the send button.
+5. After selecting, edit the district field and type in your correct district name.
 
-United States Facility and Local Transportation Impacts:
-
-Facility Impact: 
-UPS Worldport in Louisville KY may announce delays and/or a closure due to severe weather conditions this evening.
-Please be advised there is the potential for shipment delays on UPS Small Package shipments across the US.
-All other UPS SPL warehouse facilities in the path of this storm are taking precautionary measures to protect customer product.
-UPS SPL warehouses in Louisville KY are fully operational at this time.
-All other Forward Stocking Locations (FSL’s) are OPEN at this time.
- 
-Airports and Airline Closures/Delays: 
-Airlines will cancel flights in and around the path of the storm.
-
-Highways/Courier Service:
-Expect delays within the path of the storm and in the surrounding areas, with service returning as soon as safe conditions permit.
+*Note: Don’t Worry About PDL.
+The system uses the region to route the escalation, so it will still go to the correct District Manager (DM).
 
 Other Updates:
 1. For 6HR CTRs, do not set a window longer than 4 hours!
@@ -27,9 +18,6 @@ Other Updates:
 
 3. For NBD Orders, do not provide Hemmersbach the DN or Logistics Tracking #!
 -For all NBD orders and any order coming from C299, C208, or C212 we should be waiting for the 1Z tracking number to populate.
--Hemmersbach should be aware that the tracking numbers will not populate until around midnight the day before the service window.
 
-4. When moving Service Appointments in FSM, please ensure to update the times on the Work Order as well!
-
-5. When working in FSM, please ensure that the Dispatch Aid is reviewed to confirm whether it requires assignment to an HPE AE.
+4. When working in FSM, please ensure that the Dispatch Aid is reviewed to confirm whether it requires assignment to an HPE AE.
 -This verification should be completed before assigning the work to an engineer and prior to submitting a resource escalation!
